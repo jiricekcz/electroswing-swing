@@ -1,2 +1,2 @@
-# Electroswing code
+# Electroswing
 The code for the electroswing device
